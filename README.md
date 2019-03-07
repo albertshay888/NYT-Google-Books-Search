@@ -7,7 +7,8 @@ This is a full stack web application utlizing React that allows user to search f
 https://secret-ravine-93396.herokuapp.com/
 
 # Technologies used
-MongoDB / Mongoose
+MongoDB 
+Mongoose
 React-router
 Express
 React
